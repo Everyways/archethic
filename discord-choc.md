@@ -1,5 +1,5 @@
 
-Francis_compte_officiel — Hier à 10:50
+Francis_compte_officiel — Hier à 10:50  
 Je préfère des projets avec une meilleure communication. 
 Les vidéos youtube de archethic ont vraiment mal vieillies. Je vous invite à revoir.
 On se demande parfois si Sébastien Dupont n'est pas mort, je comprends pas son absence alors que soit disant d'après la team " fun is just about to begin". Je vois pas le fun. 
@@ -18,7 +18,7 @@ Je reviendrai sur le projet le jour où je serai rassuré par Sébastien, cets l
 ----
 
 
-Acyd974 | Suiswap | Sui Station — 04/04/2023 20:12
+Acyd974 | Suiswap | Sui Station — 04/04/2023 20:12  
 Hi, I did exactly that for the docker install and end up with :
 steph@bcapps:~/archetic/archethic-node$ docker compose up node1
 [+] Running 2/2

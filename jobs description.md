@@ -25,10 +25,10 @@ You ensure that our 100,000 developer community has a smooth development experie
 You represent Ceramic at key developer conferences and hackathons, accelerating Ceramic’s popularity making it one of the key projects developers want to learn and build on during hackathons.
 
 //
-- Aller au contact de nos utilisateurs / communautés afin de spécifier les besoins utilisateurs
-- Se tenir au courant des dernières avancées technologiques dans le domaine du web3 et de la blockchain.
-- Évaluer et analyser les produits concurrents afin de développer davantage notre gamme de produits et de services.
-Delivery
-- Travailler avec les différentes équipes (design, développement, marketing etc..) pour définir la portée et l'échelle des produits du client.
-- Planifier et prioriser le backlog et le développement des fonctionnalités du produit.
+- Aller au contact de nos utilisateurs / communautés afin de spécifier les besoins utilisateurs  
+- Se tenir au courant des dernières avancées technologiques dans le domaine du web3 et de la blockchain.  
+- Évaluer et analyser les produits concurrents afin de développer davantage notre gamme de produits et de services.  
+Delivery  
+- Travailler avec les différentes équipes (design, développement, marketing etc..) pour définir la portée et l'échelle des produits du client.  
+- Planifier et prioriser le backlog et le développement des fonctionnalités du produit.  
 
